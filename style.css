@@ -1,0 +1,65 @@
+body, html {
+  height: 100%;
+}
+
+.nav {
+  opacity: 70%;
+}
+
+#logotext {
+  letter-spacing: 10px;
+  opacity: 70%;
+}
+
+.bg-1 {
+  background-image: url("https://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Nanum Gothic', sans-serif;  
+  letter-spacing: 2px;
+}
+
+.bg-2 {
+  background-color: yellowgreen;
+  padding: 100px 0 100px 0;
+}
+
+.microphone {
+  width: 70%;
+}
+
+.bg-3 {
+  padding: 100px 0 100px 0;
+}
+
+.bg-4 {
+  padding: 100px 0 100px 0;
+}
+
+.bg-5 {
+  padding: 50px 0 50px 0;
+}
+
+#thumbtack {
+  color: yellowgreen;
+}
+
+.icons {
+  font-size: 35px;
+}
+
+.contact {
+  font-size: 20px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
